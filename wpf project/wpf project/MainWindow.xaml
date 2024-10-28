@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
+    <Grid>
+        <Button x:Name="btnTime" Content="Czas" HorizontalAlignment="left" Height="60" Margin="75, 150, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667"/>
 
-    <Button  Content="Button" HorizontalAlignment="left" Height="60" Margin="75, 50, 0, 0" VerticalAlignment="Top" Width="135"></Button>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="left" Height="60" Margin="75, 50, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667" Click="btnStart_Click"/>
+    </Grid>
+
 </Window>
+

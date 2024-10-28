@@ -20,5 +20,10 @@ namespace wpf_project
         {
             InitializeComponent();
         }
+
+        private void btnStart_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Witaj swiecie");
+        }
     }
 }

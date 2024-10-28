@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pkrzeszewski\\source\\repos\\wpf project\\",
+  "WorkspaceRootPath": "C:\\Users\\pkrzeszewski\\Desktop\\repoWpf\\WPF-project\\wpf project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D49C078A-5ED4-46A3-AF48-96D316F10102}|wpf project\\wpf project.csproj|c:\\users\\pkrzeszewski\\source\\repos\\wpf project\\wpf project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D49C078A-5ED4-46A3-AF48-96D316F10102}|wpf project\\wpf project.csproj|c:\\users\\pkrzeszewski\\desktop\\repowpf\\wpf-project\\wpf project\\wpf project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D49C078A-5ED4-46A3-AF48-96D316F10102}|wpf project\\wpf project.csproj|solutionrelative:wpf project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49C078A-5ED4-46A3-AF48-96D316F10102}|wpf project\\wpf project.csproj|c:\\users\\pkrzeszewski\\desktop\\repowpf\\wpf-project\\wpf project\\wpf project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49C078A-5ED4-46A3-AF48-96D316F10102}|wpf project\\wpf project.csproj|solutionrelative:wpf project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pkrzeszewski\\Desktop\\repoWpf\\WPF-project\\wpf project\\wpf project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpf project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pkrzeszewski\\Desktop\\repoWpf\\WPF-project\\wpf project\\wpf project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpf project\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:03:35.737Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\pkrzeszewski\\source\\repos\\wpf project\\wpf project\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pkrzeszewski\\Desktop\\repoWpf\\WPF-project\\wpf project\\wpf project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "wpf project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\pkrzeszewski\\source\\repos\\wpf project\\wpf project\\MainWindow.xaml",
-              "RelativeToolTip": "wpf project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pkrzeszewski\\Desktop\\repoWpf\\WPF-project\\wpf project\\wpf project\\MainWindow.xaml*",
+              "RelativeToolTip": "wpf project\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-28T06:34:45.844Z",
               "EditorCaption": ""

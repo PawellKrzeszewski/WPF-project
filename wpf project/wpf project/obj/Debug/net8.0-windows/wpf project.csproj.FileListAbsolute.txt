@@ -1,0 +1,21 @@
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\bin\Debug\net8.0-windows\wpf project.exe
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\bin\Debug\net8.0-windows\wpf project.deps.json
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\bin\Debug\net8.0-windows\wpf project.runtimeconfig.json
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\bin\Debug\net8.0-windows\wpf project.dll
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\bin\Debug\net8.0-windows\wpf project.pdb
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project_MarkupCompile.cache
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project_MarkupCompile.lref
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.g.resources
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.AssemblyInfoInputs.cache
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.AssemblyInfo.cs
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.csproj.CoreCompileInputs.cache
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.sourcelink.json
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.dll
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\refint\wpf project.dll
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.pdb
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\wpf project.genruntimeconfig.cache
+C:\Users\pkrzeszewski\Desktop\repoWpf\WPF-project\wpf project\wpf project\obj\Debug\net8.0-windows\ref\wpf project.dll
