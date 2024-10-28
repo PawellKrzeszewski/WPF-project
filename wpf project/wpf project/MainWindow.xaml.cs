@@ -40,5 +40,13 @@ namespace wpf_project
         {
             btnTime.Content = "Czas";
         }
+
+
+        private void btnYes_MouseEnter(object sender, MouseEventArgs e)
+        {
+            var tmpMargin = btnYes.Margin;
+            btnYes.Margin = btnNo.Margin;
+            btnNo.Margin = tmpMargin;
+        }
     }
 }

@@ -8,9 +8,16 @@
         Title="MainWindow" Height="450" Width="800">
 
     <Grid>
-        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="left" Height="60" Margin="75, 50, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667" Click="btnStart_Click" Background="#FF1EB535" BorderBrush="#FFF95454" Foreground="#FF2546FF" IsEnabled="False"/>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="left" Height="60" Margin="75, 50, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667" Click="btnStart_Click" Background="#FF1EB535" BorderBrush="#FFF95454" Foreground="#FF2546FF" IsEnabled="False" />
 
         <Button x:Name="btnTime" Content="Czas" HorizontalAlignment="left" Height="60" Margin="75, 150, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667" MouseEnter="btnTime_MouseEnter" MouseLeave="btnTime_MouseLeave"/>
+
+        <Label  x:Name="label" Content="Czy chesz podwyzke" HorizontalAlignment="left" Height="60" Margin="300, 50, 0, 0" VerticalAlignment="Top" Width="400" FontWeight="Bold" FontSize="26.667"></Label>
+        
+        <Button x:Name="btnYes" Content="Tak" HorizontalAlignment="left" Height="60" Margin="300, 150, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667" MouseEnter="btnYes_MouseEnter" />
+        
+        <Button x:Name="btnNo" Content="Nie" HorizontalAlignment="left" Height="60" Margin="450, 150, 0, 0" VerticalAlignment="Top" Width="135" FontWeight="Bold" FontSize="26.667" />
+
     </Grid>
 
 </Window>
