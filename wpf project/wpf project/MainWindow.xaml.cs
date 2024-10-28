@@ -23,9 +23,11 @@ namespace wpf_project
 
         private void btnStart_Click(object sender, RoutedEventArgs e)
         {
-            btnStart.Opacity = .5;
+            //btnStart.Opacity = .5;
+            btnStart.Visibility = Visibility.Hidden;
             MessageBox.Show("Witaj swiecie");
-            btnStart.Opacity = 1;
+            btnStart.Visibility = Visibility.Visible;
+            //btnStart.Opacity = 1;
         }
 
         private void btnTime_MouseEnter(object sender, MouseEventArgs e)
